@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/05-meme-generator/static/css/main.1c060ab4.css",
-    "main.js": "/github.io/05-meme-generator/static/js/main.1efdf1fd.js",
-    "static/media/lol-image.png": "/github.io/05-meme-generator/static/media/lol-image.f623e351ba4bc815c5f7.png",
-    "static/media/meme-image.png": "/github.io/05-meme-generator/static/media/meme-image.beb436e0db0fdaf34f6e.png",
-    "index.html": "/github.io/05-meme-generator/index.html",
-    "main.1c060ab4.css.map": "/github.io/05-meme-generator/static/css/main.1c060ab4.css.map",
-    "main.1efdf1fd.js.map": "/github.io/05-meme-generator/static/js/main.1efdf1fd.js.map"
+    "main.css": "/05-meme-generator/static/css/main.1c060ab4.css",
+    "main.js": "/05-meme-generator/static/js/main.c9505ce6.js",
+    "static/media/lol-image.png": "/05-meme-generator/static/media/lol-image.f623e351ba4bc815c5f7.png",
+    "static/media/meme-image.png": "/05-meme-generator/static/media/meme-image.beb436e0db0fdaf34f6e.png",
+    "index.html": "/05-meme-generator/index.html",
+    "main.1c060ab4.css.map": "/05-meme-generator/static/css/main.1c060ab4.css.map",
+    "main.c9505ce6.js.map": "/05-meme-generator/static/js/main.c9505ce6.js.map"
   },
   "entrypoints": [
     "static/css/main.1c060ab4.css",
-    "static/js/main.1efdf1fd.js"
+    "static/js/main.c9505ce6.js"
   ]
 }
