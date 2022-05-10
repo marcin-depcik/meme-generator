@@ -1,8 +1,54 @@
-# Getting Started with Create React App
+# [Meme Generator]()
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
+-   [Getting Started with npm](#getting-started-with-npm)
+
+## Overview
+
+The idea was to create meme generator in react environment. User can generate random meme template fetched from third party api. As well as, pass two inputs, first for top text, and second for bottom text of the meme.
+
+### The challenge
+
+Users should be able to:
+
+-   See hover states for all interactive elements on the page
+-   Generate random meme template
+-   Put custom top and bottom text using form inputs
+
+## My process
+
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS
+-   Flexbox
+-   CSS Grid
+-   JavaScript
+-   React JS
+
+### What I learned
+
+-   How to fetch and manipulate data in React JS
+-   How to use simple form input in react environment
+
+### Useful resources
+
+-   Fetched API - [Imgflip API](https://imgflip.com/api)
+
+## Author
+
+-   LinkedIn - [Marcin Depcik](https://linkedin.com/in/marcindepcik)
+-   GitHub - [marcin-depcik](https://github.com/marcin-depcik)
+
+## Getting Started with npm
 
 In the project directory, you can run:
 
@@ -38,33 +84,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
